@@ -1,2 +1,2 @@
 # Back-end-Iota
-Backend 
+Backend development of Iota project
